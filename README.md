@@ -1,2 +1,1 @@
-# EmployeePortal
-Employee Details Management System using Java, JDBC, JSP Servlets
+Only of Localhost - http://localhost:8080/EmployeePortal/
